@@ -1,0 +1,17 @@
+TwinIMU dataset
+Copyright (c) 2026 Simone Tognocchi, Danilo Pietro Pau, Marco Marcon
+
+The data, documentation and figures in this archive are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to:
+  - Share: copy and redistribute the material in any medium or format, for any purpose, even commercially;
+  - Adapt: remix, transform and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+  - Attribution: you must give appropriate credit (cite the dataset and the associated paper, see README.md),
+    provide a link to the license, and indicate if changes were made.
+
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+The script process_dataset.py is also released under CC BY 4.0, so that the whole archive has a single license.
