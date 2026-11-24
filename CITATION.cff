@@ -43,6 +43,7 @@ identifiers:
     value: 10.5281/zenodo.24505925
     description: "Zenodo record of version 1.0.0"
 url: "https://doi.org/10.5281/zenodo.24505924"
+repository-code: "https://github.com/simotogn/TwinIMU"
 preferred-citation:
   type: article
   title: "Learning to Match a Reference: Online In-Sensor Calibration of Low-Cost MEMS-IMUs on the ISPU"
