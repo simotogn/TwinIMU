@@ -34,11 +34,15 @@ abstract: >-
   (Xsens MTi-630) rigidly mounted in the same box: 16 recordings, 262 min, 1.67 million samples at about 106.5 Hz,
   covering cold starts, rest, multi-position, rotations, car driving, walking, stair climbing and a mixed sequence.
   Raw synchronized device outputs and processed data (aligned input, reference and error), with the processing script.
-doi: 10.5281/zenodo.24505925
+doi: 10.5281/zenodo.24505924
 identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24505924
+    description: "Zenodo concept DOI (all versions)"
   - type: doi
     value: 10.5281/zenodo.24505925
     description: "Zenodo record of version 1.0.0"
+url: "https://doi.org/10.5281/zenodo.24505924"
 preferred-citation:
   type: article
   title: "Learning to Match a Reference: Online In-Sensor Calibration of Low-Cost MEMS-IMUs on the ISPU"
