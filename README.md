@@ -1,6 +1,6 @@
 # TwinIMU: a synchronized low-cost and high-grade IMU dataset for MEMS calibration
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24505925.svg)](https://doi.org/10.5281/zenodo.24505925)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 > **Where are the data?** The CSV files are archived on **Zenodo** (DOI above), not in this repository. This
@@ -8,7 +8,7 @@
 
 ## Download
 
-1. Download from Zenodo (https://doi.org/10.5281/zenodo.XXXXXXX) one or both archives:
+1. Download from Zenodo (https://doi.org/10.5281/zenodo.24505925) one or both archives:
    - `TwinIMU_v1.0_raw.zip` (70 MB): synchronized raw outputs of the two IMUs (`raw/`);
    - `TwinIMU_v1.0_processed.zip` (114 MB): data prepared as in the paper (`processed/`).
 2. Unzip them. Each archive also contains this README, the license, the metadata and `process_dataset.py`.
@@ -335,7 +335,7 @@ addressed by the online models of the paper.
 If you use TwinIMU, please cite the dataset and the paper:
 
 > S. Tognocchi, D. P. Pau, M. Marcon, "TwinIMU: a synchronized low-cost and high-grade IMU dataset for MEMS
-> calibration", Zenodo, 2026, doi: DOI_TO_BE_ADDED.
+> calibration", Zenodo, 2026, doi: 10.5281/zenodo.24505925.
 
 > S. Tognocchi, D. P. Pau, M. Marcon, "Learning to Match a Reference: Online In-Sensor Calibration of Low-Cost
 > MEMS-IMUs on the ISPU", *Electronics* (MDPI), submitted, 2026.
